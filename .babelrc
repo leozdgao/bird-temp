@@ -1,0 +1,8 @@
+{
+  "presets": [ "es2015", "stage-0" ],
+  "plugins": [
+    "transform-node-env-inline",
+    "transform-class-properties",
+    "transform-decorators-legacy"
+  ]
+}
